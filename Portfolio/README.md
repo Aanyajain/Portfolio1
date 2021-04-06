@@ -4,6 +4,8 @@
 
 ![img](https://github.com/Aanyajain/Portfolio1/blob/main/Portfolio/public/images/img1.png)
 
+![img](https://github.com/Aanyajain/Portfolio1/blob/main/Portfolio/public/images/img2.png)
+
 ## Run Project
 ### 1. Clone the project
 
