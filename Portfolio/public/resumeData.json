@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Aanya Jain",
+    "description":"I am an App development engineer and I use React Native to develop pages.I love to recreate experiences and make new ones.I am a Designer by heart and Developer by choice.",
+    "image":"aanya.jpg",
+    "bio":"I am good at React Native and designing the websites and apps using Figma.I have done my BTECH from Vellore Institute of Technology,Chennai.My life mission is to make my parents proud of me and I should be proud of myself by achieving the good things in my life.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jainaanya2000@gmail.com",
+    "phone": "8950501910",
+    "github":"https://github.com/Aanyajain",
+    "project":"https://github.com/Aanyajain",
+    "address":{
+      "street":"130,Mansarover Colony",
+      "city":"Rohtak",
+      "state":"Haryana",
+      "zip": "124001"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/aanya.jain.16144606/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AanyaJa56352572",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aanya-jain-369985173/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Aanyajain",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University .. Vellore Institute of Technology",
+        "degree":"Bachers of Technology",
+        "graduated":"July 2022",
+        "description":"I loved going to colege as it was fun and had lots of activites, I didnt like the theory classes though but I liked the Projects as I could work with so many new students and learn a lot from them"
+      },
+      {
+        "school":"School .. Indus Public School ",
+        "degree":"CBSE Boards (Till class 12) ",
+        "graduated":"April 2018",
+        "description":"I enjoyed going to scholl also,there was hardly a day I missed going.It was mainly as I had a nice group of friends with whom everythinh seemed easy.I wish I could go back there."
+      }
+    ],
+    "work":[
+      {
+        "company":"Munchin ",
+        "title":"UI/UX Designer",
+        "years":"October 2020-December 2020",
+        "description":"I worked as a Designer for designing the apps and website screen for all device sizes using tools like Figma,Adobe Photoshop and Adobe Illustrator"
+      },
+      {
+        "company":"VIT",
+        "title":"Face Recognition with mask using MTCNN and FaceNet",
+        "years":"March 2020-Present",
+        "description":"Developed a system for recognising who the person wearing mask  is in the post-covid period using MTCNN and FaceNet models along with other classification techniques."
+      },
+      {
+        "company":"CAPSULE(VIT MAGAZINE)",
+        "title":"Vice-Design head",
+        "years":"September 2020-Present",
+        "description":"Developing designs for VIT magazine"
+      }
+    ],
+    "skills":[
+      {
+        "name":"React Native",
+        "level":"70%"
+      },
+      {
+        "name":"Figma",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs Basics",
+        "level":"50%"
+      },
+      {
+        "name":"CPP",
+        "level":"80%"
+      },
+      {
+        "name":"Adobe Illustrator",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Job Finder App",
+        "category":"React Native",
+        "image":"job.png",
+        "url":"https://github.com/Aanyajain/JobFinder"
+      },
+      {
+        "title":"Face Recognition with mask using MTCNN and FaceNet",
+        "category":"Research paper",
+        "image":"paper.png",
+        "url":""
+      },
+      {
+        "title":"Enable App",
+        "category":"App for the disabled",
+        "image":"enable1.png",
+        "url":"https://github.com/Aanyajain/EnableApp"
+      },
+      {
+        "title":"Munchin website",
+        "category":"website for foodies in Figma",
+        "image":"munchin.png",
+        "url":"https://www.figma.com/proto/kqIM68TNLOmV9q29kNTYSl/practice?node-id=31%3A12&scaling=scale-down&page-id=31%3A12"
+      }
+    ]
+  }
+}
